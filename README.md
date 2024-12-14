@@ -1,4 +1,4 @@
-# 🦠 COVID-19 Exploration Project  
+# 🦠 COVID-19 Data Exploration
 
 ## Code: [Covid-19 SQL script](https://github.com/PushpaBuddharaju/Covid-19-Data-Exploration/blob/main/SQLExpoloration.sql)
 
