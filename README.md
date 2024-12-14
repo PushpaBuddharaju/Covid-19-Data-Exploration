@@ -1,5 +1,7 @@
 # 🦠 COVID-19 Exploration Project  
 
+## Code: [Covid-19 SQL script](https://github.com/PushpaBuddharaju/Covid-19-Data-Exploration/blob/main/SQLExpoloration.sql)
+
 ## 📋 Overview  
 This project explores global COVID-19 data to analyze trends in cases, deaths, and vaccinations. Using SQL, advanced queries were performed to uncover insights into fatality rates, infection rates, and vaccination progress across countries and continents.  
 
